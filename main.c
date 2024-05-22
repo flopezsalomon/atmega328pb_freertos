@@ -3,7 +3,7 @@
 *
 * Created: 19-05-2024 17:23:56
 * Author : Fernando Lopez Salomon
-* Description : A simple example how to create two tasks to handler GPIO and USART components.
+* Description : A simple example how to create two tasks with FREERTOS to handler GPIO and USART components.
 */
 
 #include "FreeRTOS.h"
